@@ -1,0 +1,24 @@
+header > .logo{
+    width:20%;
+}
+
+
+header > .nav{
+    width: 80%;
+    height: 7rem;
+    text-align: end;
+    top: 2.5rem;
+    position: relative;
+}
+
+
+.box{
+    width: 40%;
+
+}
+
+.box img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}
